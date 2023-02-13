@@ -65,7 +65,7 @@ The default `StorageClass` behavior remains unchanged\. With each new cluster, A
 
 No\.
 
-## How do I migrate a persistent volume from the `kubernetes.io/aws-ebs``StorageClass` to `ebs.csi.aws.com` using snapshots?<a name="csi-migration-faq-migrate-using-snapshots"></a>
+## How do I migrate a persistent volume from the `kubernetes.io/aws-ebs````StorageClass` to `ebs.csi.aws.com` using snapshots?<a name="csi-migration-faq-migrate-using-snapshots"></a>
 
 To migrate a persistent volume, see [Migrating Amazon EKS clusters from gp2 to gp3 EBS volumes](http://aws.amazon.com/blogs/containers/migrating-amazon-eks-clusters-from-gp2-to-gp3-ebs-volumes/) on the AWS blog\. 
 
